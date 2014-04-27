@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Epic Reload Thingy.xcscheme</key>
+		<key>FGReloader.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>CCD6BC2C17B14D4800BE17C1</key>
+		<key>4654FF78190D8998003D0046</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CCD6BC4D17B14D4800BE17C1</key>
+		<key>4654FF99190D8998003D0046</key>
 		<dict>
 			<key>primary</key>
 			<true/>
