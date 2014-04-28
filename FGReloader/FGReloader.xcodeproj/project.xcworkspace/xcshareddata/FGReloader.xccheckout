@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D0BBDAA-8A7B-46B7-B429-E16F3FD310D6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FGReloader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9FF0418-9EAE-41D2-880A-12591F19F994</key>
+		<string>https://github.com/AndrewSB/FGReloader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FGReloader/FGReloader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9FF0418-9EAE-41D2-880A-12591F19F994</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndrewSB/FGReloader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9FF0418-9EAE-41D2-880A-12591F19F994</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9FF0418-9EAE-41D2-880A-12591F19F994</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FGReloader</string>
+		</dict>
+	</array>
+</dict>
+</plist>

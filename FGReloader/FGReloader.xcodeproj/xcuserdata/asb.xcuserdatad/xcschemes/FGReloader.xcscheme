@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CCD6BC2C17B14D4800BE17C1"
+               BlueprintIdentifier = "4654FF78190D8998003D0046"
                BuildableName = "FGReloader.app"
                BlueprintName = "FGReloader"
                ReferencedContainer = "container:FGReloader.xcodeproj">
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CCD6BC4D17B14D4800BE17C1"
-               BuildableName = "Epic Reload ThingyTests.xctest"
-               BlueprintName = "Epic Reload ThingyTests"
+               BlueprintIdentifier = "4654FF99190D8998003D0046"
+               BuildableName = "FGReloaderTests.xctest"
+               BlueprintName = "FGReloaderTests"
                ReferencedContainer = "container:FGReloader.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCD6BC2C17B14D4800BE17C1"
+            BlueprintIdentifier = "4654FF78190D8998003D0046"
             BuildableName = "FGReloader.app"
             BlueprintName = "FGReloader"
             ReferencedContainer = "container:FGReloader.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCD6BC2C17B14D4800BE17C1"
+            BlueprintIdentifier = "4654FF78190D8998003D0046"
             BuildableName = "FGReloader.app"
             BlueprintName = "FGReloader"
             ReferencedContainer = "container:FGReloader.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CCD6BC2C17B14D4800BE17C1"
+            BlueprintIdentifier = "4654FF78190D8998003D0046"
             BuildableName = "FGReloader.app"
             BlueprintName = "FGReloader"
             ReferencedContainer = "container:FGReloader.xcodeproj">
